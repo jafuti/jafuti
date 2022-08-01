@@ -1,5 +1,5 @@
 ### HELLO 👋,  THIS IS JAFAR MUZEYIN
-Seasoned, forward-looking software Developer and Instructor with many years of background in creating and executing innovative software solutions to enhance productivity and teaching different Software programming languages. Highly experienced in all aspects of the software development life cycle, from concept to delivery. 
+Seasoned, forward-looking software Developer and Instructor with years of background in creating and executing innovative software solutions to enhance productivity and teaching different Software programming languages. Highly experienced in all aspects of the software development life cycle, from concept to delivery. 
 
 <h3>WHERE TO FIND ME</h3>
 
